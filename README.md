@@ -1,1 +1,3 @@
-# mongodb-query-monitor
+To execute:
+
+mongo < script_name.js
